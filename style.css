@@ -1,0 +1,25 @@
+.heading{
+    width:100%;
+    text-align:left;
+}
+.heading h1{
+    display:inline;
+}
+.heading button{
+    float: right;
+    border: 2px solid white;
+}
+#start, #status{
+    font-size: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align : center;
+    background-color : white;
+}
+canvas{
+    border: solid black 2px;
+    border-radius: 7px;
+}
